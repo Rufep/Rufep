@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](github-header-image.pnggithub-header-image.png)
+![Header](github-header-image.png)
 
 
 
