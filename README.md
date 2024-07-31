@@ -39,4 +39,15 @@ Here are some ideas to get you started:
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rufep&show_icons=true&theme=dark)
 
+public class Profile {
+    private final String presentation = "I'm Rufep and I'm a future web developer 💻";
 
+    public static void main(String[] args) {
+        Profile profile = new Profile();
+        System.out.println(profile.getPresentation());
+    }
+
+    public String getPresentation() {
+        return presentation;
+    }
+}
