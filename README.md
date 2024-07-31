@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Hello, I am a Daw student and here I will upload my projects with which I try to learn and improve as a web developer, I love the frontend and I try to love the backend
+<p>Hello, I am a Daw student and here I will upload my projects with which I try to learn and improve as a web developer, I love the frontend and I try to love the backend</p>
 
 ## Languages ​​I have used
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,3 +38,6 @@ Hello, I am a Daw student and here I will upload my projects with which I try to
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rufep&show_icons=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?rufep=ryo-ma&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
+
