@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rufep&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
