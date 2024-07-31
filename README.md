@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<p>Hello, I am a Daw student and here I will upload my projects with which I try to learn and improve as a web developer, I love the frontend and I try to love the backend</p>
+<p  style="font-size:16;">Hello, I am a Daw student and here I will upload my projects with which I try to learn and improve as a web developer, 
+   I love the frontend and I try to love the backend</p>
 
 ## Languages ​​I have used
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
