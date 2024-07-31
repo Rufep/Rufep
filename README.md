@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p  style="font-size:32%;">Hello, I am a Daw student and here I will upload my projects with which I try to learn and improve as a web developer, <br>
+<p>Hello, I am a Daw student and here I will upload my projects with which I try to learn and improve as a web developer, <br>
    I love the frontend and I try to love the backend</p>
 
 ## Languages ​​I have used
